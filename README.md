@@ -103,25 +103,18 @@ I transitioned from web development to reelance client support and product outre
 ## 🔥 GitHub Stats
 <p align="center">
   <!-- Streak Stats -->
-  <a href="https://github.com/shayanahmed1709">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayanahmed1709&theme=dark&background=0A0A2A&stroke=8A2BE2&ring=00FFFF&fire=1E90FF&currStreakLabel=00FFFF&sideLabels=8A2BE2&dates=00FFFF&currStreakNum=00FFFF&sideNums=8A2BE2&border=8A2BE2" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayanahmed1709&theme=tokyonight&background=0A0A2A&stroke=8A2BE2&ring=00FFFF&fire=1E90FF&currStreakLabel=00FFFF&sideLabels=8A2BE2&dates=00FFFF&currStreakNum=00FFFF&sideNums=8A2BE2&border=8A2BE2" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <!-- General Stats -->
-  <a href="https://github.com/shayanahmed1709">
-    <img src="https://github-readme-stats.vercel.app/api?username=shayanahmed1709&show_icons=true&theme=tokyonight&bg_color=0A0A2A&title_color=00FFFF&text_color=8A2BE2&icon_color=1E90FF&border_color=8A2BE2" alt="GitHub Stats Card" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shayanahmed1709&show_icons=true&theme=tokyonight&bg_color=0A0A2A&title_color=00FFFF&text_color=8A2BE2&icon_color=1E90FF&border_color=8A2BE2" alt="GitHub Stats Card" />
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  <a href="https://github.com/shayanahmed1709">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanahmed1709&layout=compact&theme=tokyonight&bg_color=0A0A2A&title_color=00FFFF&text_color=8A2BE2&border_color=8A2BE2" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanahmed1709&layout=compact&theme=tokyonight&bg_color=0A0A2A&title_color=00FFFF&text_color=8A2BE2&border_color=8A2BE2" alt="Top Languages" />
 </p>
-
 
 
 ---
