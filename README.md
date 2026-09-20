@@ -29,8 +29,8 @@
 <tr>
 <td width="65%">
 <p>
-Hi, I'm **Shayan**, an independent technical consultant and creative entrepreneur.  
-I transitioned from **web development** to **freelance client support** and product outreach, while exploring **AI hackathons** and **cybersecurity fundamentals**.  
+Hi, I'm Shayan, an independent technical consultant and creative entrepreneur.  
+I transitioned from web development to reelance client support and product outreach, while exploring AI hackathons and cybersecurity fundamentals.  
 
 🌱 Always learning, always growing.  
 </p>
@@ -106,8 +106,9 @@ I transitioned from **web development** to **freelance client support** and prod
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayanahmed1709&bg_color=0A0A2A&color=8A2BE2&line=00FFFF&point=1E90FF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shayanahmed1709&show_icons=true&theme=tokyonight&bg_color=0A0A2A&title_color=00FFFF&text_color=8A2BE2&icon_color=1E90FF&border_color=8A2BE2" alt="GitHub Stats Card" />
 </p>
+
 
 ---
 
