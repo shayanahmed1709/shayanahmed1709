@@ -37,7 +37,7 @@ I transitioned from **web development** to **freelance client support** and prod
 </p>
 </td>
 <td width="35%" align="center">
-  <img src="https://via.placeholder.com/250x250.png?text=Shayan" alt="Shayan" width="250" />
+  <img src="profile.png" alt="Shayan" width="250" style="border-radius:15px; box-shadow:0 0 15px #8A2BE2;" />
 </td>
 </tr>
 </table>
