@@ -107,14 +107,13 @@ I transitioned from web development to reelance client support and product outre
 </p>
 
 <p align="center">
-  <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shayanahmed1709&show_icons=true&theme=tokyonight&bg_color=0A0A2A&title_color=00FFFF&text_color=8A2BE2&icon_color=1E90FF&border_color=8A2BE2" alt="GitHub Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shayanahmed1709&show_icons=true&theme=tokyonight&bg_color=0A0A2A&title_color=00FFFF&text_color=8A2BE2&icon_color=1E90FF&border_color=8A2BE2" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanahmed1709&layout=compact&theme=tokyonight&bg_color=0A0A2A&title_color=00FFFF&text_color=8A2BE2&border_color=8A2BE2" alt="Top Languages" />
 </p>
+
 
 ---
 
