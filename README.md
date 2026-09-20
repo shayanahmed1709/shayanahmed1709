@@ -7,9 +7,8 @@
   </picture>
 </p>
 
-
 <!-- Title -->
-<h1 align="center">Hey there, I'm Shayan </h1>
+<h1 align="center">Hey there, I'm Shayan 👋</h1>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -103,11 +102,11 @@ I transitioned from **web development** to **freelance client support** and prod
 
 ## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayanahmed1709&theme=default&background=0A0A2A&stroke=8A2BE2&ring=00FFFF&fire=1E90FF&currStreakLabel=00FFFF&sideLabels=8A2BE2&dates=1E90FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayanahmed1709&theme=dark&background=0A0A2A&stroke=8A2BE2&ring=00FFFF&fire=1E90FF&currStreakLabel=00FFFF&sideLabels=8A2BE2&dates=00FFFF&currStreakNum=00FFFF&sideNums=8A2BE2&border=8A2BE2" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayanahmed1709&bg_color=0A0A2A&color=8A2BE2&line=00FFFF&point=1E90FF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayanahmed1709&bg_color=0A0A2A&color=8A2BE2&line=00FFFF&point=1E90FF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -135,4 +134,4 @@ I transitioned from **web development** to **freelance client support** and prod
     <img src="https://img.shields.io/badge/TikTok-8A2BE2?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="https://youtube.com/@shayan" title="Subscribe to my YouTube channel">
-    <img src="https://img.shields.io/badge/YouTube-
+    <
