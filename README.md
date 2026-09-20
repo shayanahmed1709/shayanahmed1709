@@ -1,11 +1,12 @@
 <!-- Responsive Banner -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="art/banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="art/banner-light.png">
-    <img alt="Shayan's Banner" src="art/banner-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="header-light.png">
+    <img alt="Shayan's Banner" src="header-light.png">
   </picture>
 </p>
+
 
 <!-- Title -->
 <h1 align="center">Hey there, I'm Shayan 👋</h1>
