@@ -9,7 +9,7 @@
 
 
 <!-- Title -->
-<h1 align="center">Hey there, I'm Shayan 👋</h1>
+<h1 align="center">Hey there, I'm Shayan </h1>
 
 <!-- Typing Animation -->
 <p align="center">
